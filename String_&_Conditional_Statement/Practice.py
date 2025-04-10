@@ -1,27 +1,28 @@
 # WAP to check if a number entered by the user is odd or even.
-# number=int(input("Enter a integer number: "))
-# if(number % 2 == 0):
-#     print("Even")
-# else:
-#     print("Odd")
+number=int(input("Enter a integer number: "))
+if(number % 2 == 0):
+    print("Even")
+else:
+    print("Odd")
 # WAP to find the greatest of 3 numbers enterd by the user.
-# num1= int(input("Enter first number: "))
-# num2= int(input("Enter second number: "))
-# num3= int(input("Enter third number: "))
+num1= int(input("Enter first number: "))
+num2= int(input("Enter second number: "))
+num3= int(input("Enter third number: "))
 
-# if(num1 >= num2 and num1 >= num3):
-#     print("Greatest number is :", num1)
-# elif(num2 >= num1 and num2 >= num3):
-#     print("Greatest number is :", num2)
-# else:
-#     print("Greatest number is :", num3)
+if(num1 >= num2 and num1 >= num3):
+    print("Greatest number is :", num1)
+elif(num2 >= num1 and num2 >= num3):
+    print("Greatest number is :", num2)
+else:
+    print("Greatest number is :", num3)
 
 # WAP to check if a number is a multiple of 7 or not.
-# saven= int(input("enter number: "))
-# if(saven % 7 == 0):
-#     print("Multiple of 7")
-# else:
-#     print("not a multiple")
+
+saven= int(input("enter number: "))
+if(saven % 7 == 0):
+    print("Multiple of 7")
+else:
+    print("not a multiple")
 
 # WAP to find the greatest of 4 numbers enterd by the user.
 a=int(input("Enter first number: "))

@@ -7,4 +7,4 @@ elif(marks >= 70 and marks < 80):
     Grade= "C"
 elif(marks < 70):
     Grade= "D"
-print("grade of the student -> ", Grade)
+print("grade of the student -> ",Grade)

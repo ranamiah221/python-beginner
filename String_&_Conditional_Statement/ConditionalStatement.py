@@ -4,4 +4,4 @@ if(light == "red"):
 elif(light=="green"):
     print("Continue")
 else:
-    print("light nossto")
+    print("light is broken")
