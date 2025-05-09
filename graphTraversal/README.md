@@ -30,7 +30,8 @@ The program generates a random `N x N` grid (where `N` is between 4 and 7), plac
 - Tracks topological order of DFS traversal.
 
 ---
-
+## 🧠 Output
+<img src='./Screenshot 2025-05-09 220106.png>
 
 
 
